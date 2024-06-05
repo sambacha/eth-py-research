@@ -1,0 +1,16 @@
+.DS_Store
+# Compiled python files.
+*.pyc
+
+# Packages.
+*.egg-info
+build
+dist
+MANIFEST
+
+# Temporary files.
+*~
+*.swp
+
+node_modules
+
